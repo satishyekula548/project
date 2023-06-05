@@ -1,0 +1,4 @@
+first step create ec2 server in aws console
+second step use default vpc
+third step create key pair
+fouth step launch instace
